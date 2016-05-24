@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dbferreira/utils"
+	"github.com/dbferreira/gutils"
 	"strings"
 )
 
